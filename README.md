@@ -8,7 +8,7 @@ Me considero um eterno estudante e estou sempre em constante aprendizado.
 
 Nessa página compartilharei minha trajetória de estudos e alguns projetos que venho desenvolvendo nessa jornada. 
 
-Fique à vontade para visitar minhas outras redes sociais:
+Fique à vontade para visitar meu Linkedin e Portfólio:
 
 Linkedin - https://www.linkedin.com/in/marcos-vinicius-nogueira-89b77614b/ <br>
-Instagram - https://www.instagram.com/marcos_vinicius_nogueira/
+Portfólio - https://marcosviniciusnogueira.github.io/portfolio/
