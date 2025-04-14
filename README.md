@@ -1,14 +1,19 @@
-Bem vindo ao meu GitHub!
+💻 Desenvolvedor Front-end e Mobile
 
-Meu nome é Marcos Vinicius Nogueira e estou em fase de transição de carreira para a área de tecnologia.
-Atualmente estou estudando lógica de programação, pensamento computacional, versionamento de código, desenvolvimento web, HTML, CSS, JavaScript, etc.
-Me interesso por desenvolvimento web (front-end) e desenvolvimento de aplicativos mobile (iOS).
-Também tenho experiência nas áreas de História, Música e Educação, tendo atuado como professor de Música por aproximadamente 12 anos. 
-Me considero um eterno estudante e estou sempre em constante aprendizado. 
+Sou graduado em Análise e Desenvolvimento de Sistemas e atuo como desenvolvedor front-end, sempre focado em entregar soluções de alta qualidade, dentro do prazo e com um código limpo e bem estruturado. Minha prioridade é desenvolver aplicações responsivas, intuitivas, estáveis e escaláveis, garantindo a melhor experiência para os usuários e a satisfação dos clientes.
 
-Nessa página compartilharei minha trajetória de estudos e alguns projetos que venho desenvolvendo nessa jornada. 
+Além do front-end web, também tenho experiência no desenvolvimento mobile, tanto híbrido, utilizando React Native, quanto nativo, com SwiftUI. Tenho sólida experiência no consumo de APIs, garantindo integrações eficientes entre o front-end e o back-end.
 
-Fique à vontade para visitar meu Linkedin e Portfólio:
+Gosto de atuar em equipe, colaborando com designers e product owners para criar produtos de qualidade que atendam perfeitamente às necessidades do usuário. Participo ativamente de code reviews, implementação de testes unitários e de integração e ajudo desenvolvedores menos experientes a se adaptarem ao time e às boas práticas do projeto. Trabalho dentro de metodologias ágeis, como Scrum e Kanban, garantindo entregas iterativas e melhoria contínua no desenvolvimento de software.
+
+Minha trajetória profissional também inclui experiência como professor e coordenador pedagógico, o que fortaleceu habilidades essenciais como comunicação assertiva, trabalho em equipe, liderança técnica e gestão de tempo.
+
+🛠️ Tecnologias e ferramentas: 
+✔️ React | React Native | SwiftUI | TypeScript | JavaScript 
+✔️ HTML | CSS | Bootstrap | Cypress | React Testing Library 
+✔️ Git | Bitbucket | Jira | Discord 
+✔️ WordPress | DIVI Builder
+
+Se quiser trocar uma ideia sobre tecnologia ou oportunidades, estou à disposição! 🚀
 
 Linkedin - https://www.linkedin.com/in/marcos-vinicius-nogueira-89b77614b/ <br>
-Portfólio - https://marcosviniciusnogueira.github.io/portfolio/
